@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(to bottom, #FAF2DF, #e6f2ff, white, #FAF2DF, #e6f2ff);
+    background: linear-gradient(to bottom, #FAF2DF, #e6f2ff, #FAF2DF, #e6f2ff, #FAF2DF);
     color: #333;
     overflow-x: hidden;
 }
