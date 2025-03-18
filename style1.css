@@ -114,7 +114,9 @@ p {
     border-radius: 10px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
 }
-
+.intro-text h2 {
+    text-shadow: 2px 2px 5px skyblue;
+}
 .slides {
     display: flex;
     position: absolute;
