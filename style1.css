@@ -226,7 +226,7 @@ p {
 }
 
 .flip-back {
-    background: linear-gradient(135deg, #000, #66b3ff);
+    background: #66b3ff;
     color: white;
     transform: rotateY(180deg);
     display: flex;
