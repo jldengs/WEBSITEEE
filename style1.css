@@ -177,6 +177,8 @@ p {
 }
 
 .about-text {
+    background-color: transparent;
+    border: 2px solid black;
     flex: 1;
     min-width: 300px;
 }
